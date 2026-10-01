@@ -1,0 +1,20 @@
+# Environnements Python
+conda/
+env/
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Données
+data/
+
+# Modèles entraînés
+models/
+
+# Configuration VS Code
+.vscode/
+
+# Variables secrètes
+.env
